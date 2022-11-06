@@ -1,4 +1,5 @@
 branca
+folium
 geopandas
 ipywidgets
 mapclassify
